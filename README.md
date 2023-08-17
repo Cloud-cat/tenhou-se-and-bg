@@ -46,7 +46,7 @@ SE_Saki：男——宫永咲，女——宫永照
 
 #### 请注意：此时请将上方URL中的 Cloud-cat 替换成 自己的GitHub用户名 ，否则自行配置不会生效。
 
-【如】GitHub用户名为KomeijiSatori，则第4步要填写的URL为：https://raw.githubusercontent.com/Cloud-cat/tenhou-se-and-bg/master/SE_DIY.json 。其他亦然。
+【如】第4步要填写的URL为：https://raw.githubusercontent.com/Cloud-cat/tenhou-se-and-bg/master/SE_DIY.json 。其他亦然。
 
 
 ## 附录：Web版/アプリ版 SE設定ファイルサンプル
